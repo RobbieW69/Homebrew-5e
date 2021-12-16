@@ -8,7 +8,7 @@ Clicking on it will show you the description.
 
 # Transmutation
 
-**Level 1** 
+### _Level 1_ 
  <details><summary>Erase (V/S, 5ft, Permanent, 1 Action, Any visible text)</summary>   
  <p>
 
@@ -18,9 +18,20 @@ Clicking on it will show you the description.
 
  </p>
  </details>    
+ 
+<details><summary>Stone Tell (V/S/C, 10ft, 1 Minute, 1 Bonus Action, Rock or stone)</summary>
+<p>
+ 
+| Description |
+| --- |
+| You gain the ability to speak with stones, which relate to you who or what has touched them as well as revealing what is covered or concealed behind or under them. The stones relate complete descriptions if asked. Note that a stone’s perspective, perception, and knowledge may prevent the stone from providing the details you are looking for (as determined by the DM). You can speak with natural or worked stone. |
+
+</p>
+</details>
+ 
 
 # Alteration
-Level 2    
+### _Level 2_   
 <details><summary>Gaze Reflection (V/S, 5ft, 1 Min, 1 Reaction, Self)</summary>
 <p>
  
@@ -61,23 +72,90 @@ Level 2
 </p>
 </details>
 
-Level 4
+<details><summary>Curse Water (V/S/C(one pound of powdered fine silver), Touch(the container), Permanent, 1 Bonus Action, Special)</summary>
+<p>
+ 
+| Description |
+| --- |
+| This transmutation imbues a flask (1 pint) of water with negative energy, turning it into unholy water. Unholy water damages good outsiders the way holy water damages undead.|
+
+</p>
+</details>
+
+<details><summary>Chill Metal (V/S/C, 60ft, 1 Minute, 1 Action, Special)</summary>
+<p>
+ 
+| Description |
+| --- |
+| Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to frost over and become very cold. Any creature in physical contact with the object takes 2d8 ice damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
+If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
+At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd. |
+
+</p>
+</details>
+
+### _Level 3_
+
+<details><summary>Tree (V/S/C(a piece of bark for the type of tree), Self, 1 Hour, 1 Action, Self)</summary>
+<p>
+ 
+| Description |
+| --- |
+| By means of this spell, the caster is able to assume the form of a small living tree or shrub or that of a large dead tree trunk with only a few limbs. Although the closest inspection cannot reveal that this plant is actually a person, and for all normal tests he is, in fact, a tree or shrub, the caster is able to observe all that goes on around him just as if he were in normal form. The Armor Class and hit points of the plant are those of the caster. The caster can remove the spell at any time, instantly changing from plant to his normal form and having full capability for any action normally possible (including spellcasting). Note that all clothing and gear worn or carried change with the caster. |
+
+</p>
+</details>
+
+### _Level 4_
 <details><summary>Massmorph (V/S/M(Handful of bark chips), 25ft Diameter, Permanent until dispelled, 1 Action, 10 or less willing creatures Large or smaller)</summary>
 <p>
  
 | Description |
 | --- |
 | When this spell is cast upon willing creatures of man-size or smaller, up to 10 such creatures per level of the caster can be magically altered to appear as trees of any sort. Thus, a company of creatures can be made to appear as a copse, grove, or orchard. Furthermore, these mass morphed creatures can be passed through and even touched by other creatures without revealing their true nature. Note, however, that blows to the creature-trees cause damage, and blood can be seen. Creatures to be mass morphed must be within the spell’s area of effect; unwilling creatures are not affected. Affected creatures remain unmoving but aware, subject to normal sleep requirements, and able to see, hear, and feel for as long as the spell is in effect. The spell persists until the caster commands it to cease or until a dispel magic spell is cast upon the creatures. Creatures left in this state for extended periods are subject to insects, weather, disease, fire, and other natural hazards. The material component of this spell is a handful of bark chips from the type of tree the creatures are to become. |
+ 
+</p>
+</details>
+
+<details><summary>Shadow Walk (V/S, Touch, 10 Minutes, 1 Action, Up to 5 willing creatures)</summary>
+<p>
+ 
+| Description |
+| --- |
+| In order to use the shadow walk spell, the wizard must be in an area of heavy shadows. The caster and any creature he touches are then transported to the edge of the Prime Material Plane where it borders the Demiplane of Shadow. In this region, the wizard can move at a rate of up to 7 miles per turn, moving normally on the borders of the Demiplane of Shadow but much more rapidly relative to the Prime Material Plane. Thus, a wizard can use this spell to travel rapidly by stepping onto the Demiplane of Shadow, moving the desired distance, and then stepping back onto the Prime Material Plane. The wizard knows where he will come out on the Prime Material Plane. The shadow walk spell can also be used to travel to other planes that border on the Demiplane of Shadow, but this requires the potentially perilous transit of the Demiplane of Shadow to arrive at a border with another plane of reality. Any creatures touched by the wizard when shadow walk is cast also make the transition to the borders of the Demiplane of Shadow. They may opt to follow the wizard, wander off through the plane, or stumble back into the Prime Material Plane (50% chance for either result if they are lost or abandoned by the wizard). Creatures unwilling to accompany the wizard into the Demiplane of Shadow receive a saving throw, negating the effect if successful. |
+
+</p>
+</details>
+
+<details><summary>Temporal Stasis (V/S/C, 15ft, Permanent or until dispelled, 1 Action, Willing creature)</summary>
+<p>
+ 
+| Description |
+| --- |
+| Upon casting this spell, the wizard places the recipient creature into a state of suspended animation. This cessation of time means that the creature does not grow older. Its body functions virtually cease. This state persists until the magic is removed by a dispel magic spell or the reverse of the spell (temporal reinstatement) is uttered. Note that the reverse requires only a single word and no somatic or material components. The material component of a temporal stasis spell is a powder composed of diamond, emerald, ruby, and sapphire dust, with each crushed stone worth at least 100 gp. |
+
+</p>
+</details>
+
+### _Level 7_
+
+<details><summary>Crystalbrittle (V/S, 15ft, Permanent or until dispelled, 1 Action, Spells listed)</summary>
+<p>
+ 
+| Description |
+| --- |
+| The magic of this spell causes metal, whether as soft as gold or as hard as adamantite, to turn to a crystalline substance as brittle and fragile as crystal. Thus, a sword, metal shield, metal armor, or even an iron golem can be changed to a delicate, glasslike material easily shattered by any forceful blow. Furthermore, this change is unalterable by any means short of a wish spell; a dispel magic will not reverse the spell.
+The caster must physically touch the item; if it is an opponent or something an opponent is using or wearing, the wizard must get into melee and make a successful attack roll. Any single metal item can be affected by the spell. Thus, a suit of armor worn by a creature can be changed to crystal, but the creature's shield would not be affected,and vice versa. All items gain a saving throw equal to their magical bonus value or protection (the DM has this information). A +1/+3 sword would get a 10% (average of the two pluses) chance to save; +5 magical armor has a 25% chance to be unaffected; an iron golem has a 15% chance to save (for it is hit only by magical weapons of +3 or better quality). Artifacts and relics constructed of metal may be affected at the discretion of the DM, though it is highly unlikely. Affected items not immediately protected are shattered and permanently destroyed if struck by a normal blow from a metal tool or any weighty weapon, including a staff. |
 
 </p>
 </details>
 
 # Illusion
 
-Level 1
+### _Level 1_
 
 
-Level 2
+### _Level 2_
 <details><summary>Leomund's Trap (V,S,M(small mechanism or device), Touch, Permanent, 1 Action, Self)</summary>
 <p>
  
@@ -111,7 +189,7 @@ If another Leomund's trap is active within 50 feet when the spell is cast, the c
 
 # Conjuration
 
-Level 2
+### _Level 2_
 
 <details><summary>Sepia Snake Sigil (V/S/M(100gp worth of diamonds), 15ft, Special, 1 Action, Special)</summary>
 <p>
@@ -123,183 +201,86 @@ Level 2
 </p>
 </details>
 
+# Transmutation
+### _Level 1_
+
+<details><summary>Airy Water (V/S/M(a small handful of bromine salts), 15ft, 1 Hour, 1 Reaction, Self)</summary>
+<p>
+ 
+| Description |
+| --- |
+| The airy water spell turns normal liquid, such as water or waterbased solutions, into a less dense, breathable substance. Thus, if the wizard wanted to enter an underwater place, he would step into the water, cast the spell, and sink downward in a globe of bubbling water. He and any companions in the spell’s area of effect can move freely and breathe just as if the bubbling water were air. The globe is centered on and moves with the caster. Water-breathing creatures avoid a sphere (or hemisphere) of airy water, although intelligent ones can enter it if they are able to move by means other than swimming. No water-breathers can breathe in an area affected by this spell. There is only one word that needs to be spoken to actuate the magic; thus, it can be cast under water. The spell does not filter or remove solid particles of matter. The material component of the spell is a small handful of alkaline or bromine salts. |
+
+</p>
+</details>
+
+### _Level 4_
+
+<details><summary>Glassteel (V/S, Touch, Permanent, 1 Action, Special)</summary>
+<p>
+ 
+| Description |
+| --- |
+| The glassteel spell turns normal, nonmagical crystal or glass into a transparent substance that has the tensile strength and unbreakability of actual steel. Only a relatively small volume of material can be affected (a maximum weight of 10 pounds per level of experience of the spellcaster), and it must form one whole object. The Armor Class of the substance is 1. The material components of this spell are a small piece of glass and a small piece of steel. |
+
+</p>
+</details>
+
+# Evocation
+
+### _Level 7_
+
+<details><summary>Permanency (V/S, 15ft, Permanent, 1 Action, Spells listed)</summary>
+<p>
+ 
+| Description |
+| --- |
+| This spell affects the duration of certain other spells, making the duration permanent. The personal spells upon which a permanency is known to be effective are as follows: comprehend languages protection from evil detect evil protection from normal missiles detect invisibility read magic detect magic tongues infravision unseen servant protection from cantrips The wizard casts the desired spell and then follows it with the permanency spell. Each permanency spell lowers the wizard’s Constitution by 1 point. The wizard cannot cast these spells upon other creatures. This application of permanency can be dispelled only by a wizard of greater level than the spellcaster was when he cast the spell. In addition to personal use, the permanency spell can be used to make the following object/creature or area-effect spells permanent: enlarge prismatic sphere fear stinking cloud gust of wind wall of fire invisibility wall of force magic mouth web Additionally, the following spells can be cast upon objects or areas only and rendered permanent: alarm wall of fire audible glamer distance distortion dancing lights teleport solid fog These applications to other spells allow it to be cast simultaneously with any of the latter when no living creature is the target, but the entire spell complex then can be dispelled normally, and thus negated. The permanency spell is also used in the fabrication of magical items (see the 6th-level spell enchant an item). At the DM’s option, permanency might become unstable or fail after a long period of at least 1,000 years. Unstable effects might operate intermittently or fail altogether. The DM may allow other selected spells to be made permanent. |
+
+</p>
+</details>
 
 
-* Name:Airy Water
-Level:1
-Components:V/S/C(a small handful of alkaline or bromine salts)
-School:Transmutation
-Range:15ft
-Duration:1 Hour
-Casting Time:1 Reaction
-Target:Self
-Description:The airy water spell turns normal liquid, such as water or waterbased solutions, into a less dense, breathable substance. Thus, if the wizard wanted to enter an underwater place, he would step into the water, cast the spell, and sink downward in a globe of bubbling water. He and any companions in the spell’s area of effect can move freely and breathe just as if the bubbling water were air. The globe is centered on and moves with the caster. Water-breathing creatures avoid a sphere (or hemisphere) of airy water, although intelligent ones can enter it if they are able to move by means other than swimming. No water-breathers can breathe in an area affected by this spell. There is only one word that needs to be spoken to actuate the magic; thus, it can be cast under water. The spell does not filter or remove solid particles of matter. The material component of the spell is a small handful of alkaline or bromine salts.
+<details><summary>Succor ( idk yet )</summary>
+<p>
+ 
+| Description |
+| --- |
+| By casting this spell, the wizard creates a powerful magic in some specially prepared object— a statuette, a jeweled rod, a gem, etc. This object radiates magic, for it contains the power to instantaneously transport its possessor to the abode of the wizard who created it. Once the item is enchanted, the wizard must give it willingly to an individual, at the same time informing him of a command word to be spoken when the item is to be used. To make use of the item, the recipient must speak the command word at the same time that he rends or breaks the item. When this is done, the individual and all that he is wearing and carrying are instantly transported to the abode of the wizard. No other creatures can be affected. The reversed application of the spell transports the wizard to the immediate vicinity of the possessor of the enchanted item, when it is broken and the command word spoken. The wizard will have a general idea of the location and situation of the item possessor, but has no choice whether or not to go (making this a rare casting indeed!). The material components used include gemstones totaling not less than 5,000 gp value (whether they are faceted gems or not is immaterial). The components can be enchanted only once per month (usually on a night of a clear, full moon). At that time, the object is set for the type of succor and its final destination (either the location of the spellcasting or an area well known to the wizard). |
 
-* Name:Glassteel
-Level:4
-Components:V/S
-School:Transmutation
-Range:Touch
-Duration:Permanent
-Casting Time:1 Action
-Target:Special
-Description:The glassteel spell turns normal, nonmagical crystal or glass into a transparent substance that has the tensile strength and unbreakability of actual steel. Only a relatively small volume of material can be affected (a maximum weight of 10 pounds per level of experience of the spellcaster), and it must form one whole object. The Armor Class of the substance is 1. The material components of this spell are a small piece of glass and a small piece of steel.
+</p>
+</details>
 
-* Name:Shadow Walk
-Level:4
-Components:V/S
-School:Alteration/Enchantment
-Range:Touch
-Duration:10 Minutes
-Casting Time:1 Action
-Target:Up to 5 willing creatures
-Description:In order to use the shadow walk spell, the wizard must be in an area of heavy shadows. The caster and any creature he touches are then transported to the edge of the Prime Material Plane where it borders the Demiplane of Shadow. In this region, the wizard can move at a rate of up to 7 miles per turn, moving normally on the borders of the Demiplane of Shadow but much more rapidly relative to the Prime Material Plane. Thus, a wizard can use this spell to travel rapidly by stepping onto the Demiplane of Shadow, moving the desired distance, and then stepping back onto the Prime Material Plane. The wizard knows where he will come out on the Prime Material Plane. The shadow walk spell can also be used to travel to other planes that border on the Demiplane of Shadow, but this requires the potentially perilous transit of the Demiplane of Shadow to arrive at a border with another plane of reality. Any creatures touched by the wizard when shadow walk is cast also make the transition to the borders of the Demiplane of Shadow. They may opt to follow the wizard, wander off through the plane, or stumble back into the Prime Material Plane (50% chance for either result if they are lost or abandoned by the wizard). Creatures unwilling to accompany the wizard into the Demiplane of Shadow receive a saving throw, negating the effect if successful.
+# Necromancy
 
-* Name:Permanency
-Level:7
-Components:V/S
-School:Evocation
-Range:15ft
-Duration:Permanent
-Casting Time:1 Action
-Target:Spells listed
-Description:This spell affects the duration of certain other spells, making the duration permanent. The personal spells upon which a permanency is known to be effective are as follows: comprehend languages protection from evil detect evil protection from normal missiles detect invisibility read magic detect magic tongues infravision unseen servant protection from cantrips The wizard casts the desired spell and then follows it with the permanency spell. Each permanency spell lowers the wizard’s Constitution by 1 point. The wizard cannot cast these spells upon other creatures. This application of permanency can be dispelled only by a wizard of greater level than the spellcaster was when he cast the spell. In addition to personal use, the permanency spell can be used to make the following object/creature or area-effect spells permanent: enlarge prismatic sphere fear stinking cloud gust of wind wall of fire invisibility wall of force magic mouth web Additionally, the following spells can be cast upon objects or areas only and rendered permanent: alarm wall of fire audible glamer distance distortion dancing lights teleport solid fog These applications to other spells allow it to be cast simultaneously with any of the latter when no living creature is the target, but the entire spell complex then can be dispelled normally, and thus negated. The permanency spell is also used in the fabrication of magical items (see the 6th-level spell enchant an item). At the DM’s option, permanency might become unstable or fail after a long period of at least 1,000 years. Unstable effects might operate intermittently or fail altogether. The DM may allow other selected spells to be made permanent.
+### _Level 1_
 
-* Name:Crystalbrittle
-Level:7
-Components:V/S
-School:Transmutation
-Range:15ft
-Duration:Permanent or until dispelled
-Casting Time:1 Action
-Target:Spells listed
-Description:The magic of this spell causes metal, whether as soft as gold or as hard as adamantite, to turn to a crystalline substance as brittle and fragile as crystal. Thus, a sword, metal shield, metal armor, or even an iron golem can be changed to a delicate, glasslike material easily shattered by any forceful blow. Furthermore, this change is unalterable by any means short of a wish spell; a dispel magic will not reverse the spell.
-The caster must physically touch the item; if it is an opponent or something an opponent is using or wearing, the wizard must get into melee and make a successful attack roll. Any single metal item can be affected by the spell. Thus, a suit of armor worn by a creature can be changed to crystal, but the creature's shield would not be affected,and vice versa. All items gain a saving throw equal to their magical bonus value or protection (the DM has this information). A +1/+3 sword would get a 10% (average of the two pluses) chance to save; +5 magical armor has a 25% chance to be unaffected; an iron golem has a 15% chance to save (for it is hit only by magical weapons of +3 or better quality). Artifacts and relics constructed of metal may be affected at the discretion of the DM, though it is highly unlikely. Affected items not immediately protected are shattered and permanently destroyed if struck by a normal blow from a metal tool or any weighty weapon, including a staff.
+<details><summary>Deathwatch (V/S/C, 30ft + 10ft per Cleric level, 10 Minutes, 1 Bonus Action, Self)</summary>
+<p>
+ 
+| Description |
+| --- |
+| Using the foul sight granted by the powers of unlife, you can determine the condition of creatures near death within the spell’s range. You instantly know whether each creature within the area is dead, fragile (alive and wounded, with 3 or fewer hit points left), fighting off death (alive with 4 or more hit points), undead, or neither alive nor dead (as a construct). This spell foils any spell or ability that allows creatures to feign death. |
 
-* Succor:By casting this spell, the wizard creates a powerful magic in some specially prepared object— a statuette, a jeweled rod, a gem, etc. This object radiates magic, for it contains the power to instantaneously transport its possessor to the abode of the wizard who created it. Once the item is enchanted, the wizard must give it willingly to an individual, at the same time informing him of a command word to be spoken when the item is to be used. To make use of the item, the recipient must speak the command word at the same time that he rends or breaks the item. When this is done, the individual and all that he is wearing and carrying are instantly transported to the abode of the wizard. No other creatures can be affected. The reversed application of the spell transports the wizard to the immediate vicinity of the possessor of the enchanted item, when it is broken and the command word spoken. The wizard will have a general idea of the location and situation of the item possessor, but has no choice whether or not to go (making this a rare casting indeed!). The material components used include gemstones totaling not less than 5,000 gp value (whether they are faceted gems or not is immaterial). The components can be enchanted only once per month (usually on a night of a clear, full moon). At that time, the object is set for the type of succor and its final destination (either the location of the spellcasting or an area well known to the wizard).
+</p>
+</details>
 
-* Name:Temporal Stasis
-Level:4
-Components:V/S/C
-School:Transmutation
-Range:15ft
-Duration:Permanent or until dispelled
-Casting Time:1 Action
-Target:Willing creature
-Description:Upon casting this spell, the wizard places the recipient creature into a state of suspended animation. This cessation of time means that the creature does not grow older. Its body functions virtually cease. This state persists until the magic is removed by a dispel magic spell or the reverse of the spell (temporal reinstatement) is uttered. Note that the reverse requires only a single word and no somatic or material components. The material component of a temporal stasis spell is a powder composed of diamond, emerald, ruby, and sapphire dust, with each crushed stone worth at least 100 gp.
+# Abjuration
 
-* Name:Tree
-Level:3
-Components:V/S/C(a piece of bark for the type of tree)
-School:Transmutation
-Range:Self
-Duration:1 hour
-Casting Time:1 Action
-Target:Self
-Description:By means of this spell, the caster is able to assume the form of a small living tree or shrub or that of a large dead tree trunk with only a few limbs. Although the closest inspection cannot reveal that this plant is actually a person, and for all normal tests he is, in fact, a tree or shrub, the caster is able to observe all that goes on around him just as if he were in normal form. The Armor Class and hit points of the plant are those of the caster. The caster can remove the spell at any time, instantly changing from plant to his normal form and having full capability for any action normally possible (including spellcasting). Note that all clothing and gear worn or carried change with the caster.
 
-* Name:Chill Metal
-Level:2
-Components:V/S/C
-School:Transmutation
-Range: 60ft
-Duration:1 Minute
-Casting Time:1 Action
-Target:Special
-Description:Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to frost over and become very cold. Any creature in physical contact with the object takes 2d8 ice damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
-If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
-Name:Curse Water
-Level:2
-Components:V/S/C(one pound of powdered fine silver)
-School:Transmutation
-Range:Touch(the container)
-Duration:Permanent
-Casting Time:1 Bonus Action
-Target:Special
-Description:This transmutation imbues a flask (1 pint) of water with negative energy, turning it into unholy water. Unholy water damages good outsiders the way holy water damages undead.
+### _Level 7_
 
-* Name:Deathwatch
-Level:1
-Components:V/S/C
-School:Necromancy
-Range:30ft + 10ft per Cleric level.
-Duration:10 Minutes
-Casting Time:1 Bonus Action
-Target:Self
-Description:Using the foul sight granted by the powers of unlife, you can determine the condition of creatures near death within the spell’s range. You instantly know whether each creature within the area is dead, fragile (alive and wounded, with 3 or fewer hit points left), fighting off death (alive with 4 or more hit points), undead, or neither alive nor dead (as a construct). This spell foils any spell or ability that allows creatures to feign death.
+<details><summary>Dimensional Anchor (V/S/C, Touch, 1 Minute, 1 Action, Special)</summary>
+<p>
+ 
+| Description |
+| --- |
+| A green ray springs from your outstretched hand. You must make a ranged touch attack to hit the target. Any creature or object struck is covered with a shimmering emerald field that completely blocks bodily extra dimensional travel. Forms of movement barred by the dimensional anchor include astral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport, and similar spell-like or psionic abilities. It prevents the use of a gate or teleportation circle for the duration of the spell. The dimensional anchor does not interfere with the movement of creatures already in ethereal or astral form when the spell is cast, nor does it block extradimensional perception or attack forms such as a basilisk’s gaze. Also, it does not prevent summoned creatures from disappearing at the end of a summoning spell. |
 
-* Name:Dimensional Anchor
-Level:7
-Components:V/S/C
-School:Abjuration
-Range:Touch
-Duration:1 Minute
-Casting Time:1 Action
-Target:Special
-Description:A green ray springs from your outstretched hand. You must make a ranged touch attack to hit the target. Any creature or object struck is covered with a shimmering emerald field that completely blocks bodily extra dimensional travel. Forms of movement barred by the dimensional anchor include astral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport, and similar spell-like or psionic abilities. It prevents the use of a gate or teleportation circle for the duration of the spell. The dimensional anchor does not interfere with the movement of creatures already in ethereal or astral form when the spell is cast, nor does it block extradimensional perception or attack forms such as a basilisk’s gaze. Also, it does not prevent summoned creatures from disappearing at the end of a summoning spell.
+</p>
+</details>
 
-* Name:Freedom
-Level:9
-Components:V/S/C
-School:Transmutation
-Range:15ft
-Duration:Instantaneous
-Casting Time:4 hours
-Target:Special
-Description:The subject is freed from spells and effects that restrict his movement, including entangle, hold, imprisonment, paralysis, petrification, sleep, slow, stunning, temporal stasis, and web. To free someone from imprisonment, you must know his name and background, and you must cast this spell at the spot where he was entombed.
 
-* Name:Liveoak
-Level:5
-Components:V/S/C
-School:Transmutation(Druid)
-Range:Touch
-Duration:Special
-Casting Time:1 Action
-Target:Tree
-Description:This spell turns an oak tree into a protector or guardian. The spell can be cast on only a single tree at a time; while Liveoak is in effect, you can’t cast it again on another tree. The tree on which the spell is cast must be within 10 feet of your dwelling place, within a place sacred to you, or within 300 feet of something that you wish to guard or protect.
-Liveoak must be cast on a healthy, Huge oak. A triggering phrase of up to one word per caster level is placed on the targeted oak. The liveoak spell triggers the tree into animating as a treant.
-If liveoak is dispelled, the tree takes root immediately, wherever it happens to be. If released by you, the tree tries to return to its original location before taking root.
-
-* Name:Make Whole
-Level:2
-Components:V/S/C
-School:Transmutation
-Range:Touch
-Duration:Permanent
-Casting Time:1 Bonus Action
-Target:Special
-Description:As mending, except Make Whole completely repairs an object made of any substance, even one with multiple breaks, to be as strong as new. The spell does not restore the magical abilities of a broken magic item made whole, and it cannot mend broken magic rods, staffs, or wands. The spell does not repair items that have been warped, burned, disintegrated, ground to powder, melted, or vaporized.
-
-* Name:Shrink Item
-Level:4
-Components:V/S/C
-School:Transmutation
-Range:Touch
-Duration:1 Day
-Casting Time:1 Action
-Target:Special
-Description:You are able to shrink one non magical item (if it is within the size limit) to one twelfth of its normal size in each dimension (to about 1/2,000th the original volume and mass). Optionally, you can also change its now-shrunken composition to a clothlike one. Objects changed by a shrink item spell can be returned to normal composition and size merely by tossing them onto any solid surface or by a word of command from the original caster. Even a burning fire and its fuel can be shrunk by this spell. Restoring the shrunken object to its normal size and composition ends the spell. If a shrunken item is made permanent (see the permanency spell), the affected object can be shrunk and expanded an indefinite number of times, but only by the original caster.
-
-* Name:Status
-Level:2
-Components:V/S/C
-School:Transmutation
-Range:Touch
-Duration:1 Hour
-Casting Time:1 Bonus Action
-Target:One willing creature within range
-Description:When a cleric needs to keep track of comrades who may get separated, status allows him to mentally monitor their relative positions and general condition. The cleric is aware of direction and distance to the creatures and their status: unharmed, wounded, disabled, staggered, unconscious, dying, dead, etc. Once the spell has been cast upon the subjects, the distance between them and the caster does not affect the spell as long as they are on the same plane of existence. If they leave it, the spell ceases to function for them.
-
-* Name:Stone Tell
-Level:1
-Components:V/S/C
-School:Transmutation
-Range:10ft
-Duration:1 Minute
-Casting Time:1 Bonus Action
-Target:Rock
-Description:You gain the ability to speak with stones, which relate to you who or what has touched them as well as revealing what is covered or concealed behind or under them. The stones relate complete descriptions if asked. Note that a stone’s perspective, perception, and knowledge may prevent the stone from providing the details you are looking for (as determined by the DM). You can speak with natural or worked stone.
 
 * Name:Extension
 Level:3
