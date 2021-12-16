@@ -1,104 +1,129 @@
 # Homebrew Spells
-* Name:Erase
-  * Components:V, S 
-  * [ ] School:Transmutation     
-Range:5ft
-Level:1
-Duration:Permanent
-Casting Time:1 Action
-Target:One scroll or two facing pages
-Description:Erases magical or mundane writings from paper, parchment, or similar. It won't remove magic runes such as explosive runes or a symbol.
+All the spells are sectioned by schools and then by level, each collapsable spell is in the following format: 
 
-* Name:Gaze Reflection
-Level:2
-Components:V,S
-School:Alteration
-Range:Self
-Duration:1 minute
-Casting Time:1 Reaction
-Target:Self
-Description:The gaze reflection spell creates a shimmering, mirrorlike area of air before the wizard that moves with the caster. Any gaze attack, such as that of a basilisk, eyes of charming, a vampire's gaze, the 6th-level eyebite spell, and so on, is reflected back upon the gazer if the gazer tries to make eye contact with the spellcaster (the spellcaster suffers no effects from the gaze attack). Such creatures receive a saving throw vs. their own gaze effect. The spell does not affect vision or lighting and is not effective against creatures whose effect comes from being gazed upon (such as a medusa). Only active gaze attacks are blocked by this spell.
+*[Name (Components, Range, Duration, Cast Time, Target)]()*   
 
-* Name:Leomund's Trap
-Level:2
-Components:V,S,M(A piece of iron pyrite touched to the object to the trapped while the object is sprinkled with a special dust requiring 50 gp to prepare)
-School:Illusion
-Range:Touch
-Duration:Permanent
-Casting Time:1 Action
-Target:Touch
-Description:This spell makes a lock or small mechanism seem to be trapped to anyone who can detect traps. You place the spell upon any small mechanism or device, such as a lock, hinge, hasp, cork, cap, or ratchet. Any character able to detect traps, or who uses any spell or device enabling trap detection, is 100% certain a real trap exists. Of course, the effect is illusory and nothing happens if the trap is "sprung"; its primary purpose is to frighten away thieves or make them waste precious time.
-If another Leomund's trap is active within 50 feet when the spell is cast, the casting fails.
+Clicking on it will show you the description. 
 
-* Name: Misdirection
-Level: 2
-Components:V/S
-School:Illusion
-Range:Self-centered in a 15ft diameter
-Duration:15 Minutes
-Casting Time:1 Action
-Target:Self
-Description:By means of this spell, the wizard misdirects the information from a detection spell (detect charm, detect evil, detect invisibility, detect lie, detect magic, detect snares and pits, etc.). While the detection spell functions, it indicates the wrong area, creature, or the opposite of the truth with respect to detect evil or detect lie. The wizard directs the spell effect upon the object of the detection spell. If the caster of the detection spell fails his saving throw vs. spell, the misdirection takes place. Note that this spell does not affect other types of divination (know alignment, augury, ESP, clairvoyance, etc.)
 
-* Name:Wizard Lock
-Level: 2
-Components:V/S
-School:Alteration
-Range:Touch
-Duration:Permanent
-Casting Time:1 Action
-Target:Object
-Description:A wizard lock spell cast upon a door, chest, or portal magically locks it. The caster can freely pass his own lock without affecting it; otherwise, the wizard-locked door or object can be opened only by breaking in, by a successful dispel magic or knock spell, or by a wizard four or more levels higher than the one casting the spell. Note that the last two methods do not remove the wizard lock; they only negate it for a brief duration—about one turn. Creatures from other planes cannot burst a wizard lock as they can a held portal (see the hold portal spell).
+# Transmutation
 
-* Name:Delude
-Level: 2
-Components:S
-School:Illusion
-Range: 50ft
-Duration:Instant
-Casting Time:1 Action
-Target:1 creature you can see within range
-Description:By means of a delude spell, the wizard conceals his own alignment with that of any creature within range at the time the spell is cast. The creature must be of higher than animal intelligence for the spell to work; its own alignment remains unchanged. The creature receives a saving throw vs. spell and, if successful, the delude spell fails. If the spell is successful, any know alignment spell used against the caster discovers only the assumed alignment. Note that a detect good or detect evil also detects the assumed aura, if the aura is strong enough. The creature whose aura has been assumed radiates magic, but the wizard radiates magic only to the creature whose alignment has been assumed. If a delude spell is used in conjunction with a change self or alter self spell, the class of the wizard can be totally hidden, if he is clever enough to carry off the disguise.
+**Level 1** 
+ <details><summary>Erase (V/S, 5ft, Permanent, 1 Action, Any visible text)</summary>   
+ <p>
 
-* Name:Sepia Snake Sigil
-Level: 2
-Components:V/S/C(100gp worth of diamonds)
-School:Conjuration
-Range:15ft
-Duration:Special
-Casting Time:1 Action
-Target:Special
-Description:When this spell is cast, a small written symbol appears in the text of any written work. When read, the so-called sepia snake springs into being and strikes at the nearest living creature (but does not attack the wizard who cast the spell). Its attack is made as if it were a monster with Hit Dice equal to the level of the wizard who cast the spell. If it strikes successfully, the victim is engulfed in a shimmering amber field of force, frozen and immobilized until released, either at the caster’s command, by a successful dispel magic spell, or until a time equal to 1d4 days + 1 day per caster level has elapsed. Until then, nothing can get at the victim, move the shimmering force surrounding him, or otherwise affect him. The victim does not age, grow hungry, sleep, or regain spells while in this state. He is not aware of his surroundings. If the sepia snake misses its target, it dissipates in a flash of brown light, with a loud noise and a puff of dun-colored smoke that is 10 feet in diameter and lasts for one round. The spell cannot be detected by normal observation, and detect magic reveals only that the entire text is magical. A dispel magic can remove it; an erase spell destroys the entire page of text. It can be cast in combination with other spells that hide or garbled text. The components for the spell are 100 gp worth of powdered amber, a scale from any snake, and a pinch of mushroom spores.
+ | Description |
+ | --- |
+ | Erases magical or mundane writings from paper, parchment, or similar. It won't remove magic runes such as explosive runes or a symbol. |
 
-* Name:Massmorph
-Level: 4
-Components:V/S/C(Handful of bark chips)
-School:Alteration
-Range:25ft Diameter
-Duration:Permanent until dispelled
-Casting Time:1 Action
-Target:Up to 10 willing creatures of Large or smaller size
-Description:When this spell is cast upon willing creatures of man-size or smaller, up to 10 such creatures per level of the caster can be magically altered to appear as trees of any sort. Thus, a company of creatures can be made to appear as a copse, grove, or orchard. Furthermore, these mass morphed creatures can be passed through and even touched by other creatures without revealing their true nature. Note, however, that blows to the creature-trees cause damage, and blood can be seen. Creatures to be mass morphed must be within the spell’s area of effect; unwilling creatures are not affected. Affected creatures remain unmoving but aware, subject to normal sleep requirements, and able to see, hear, and feel for as long as the spell is in effect. The spell persists until the caster commands it to cease or until a dispel magic spell is cast upon the creatures. Creatures left in this state for extended periods are subject to insects, weather, disease, fire, and other natural hazards. The material component of this spell is a handful of bark chips from the type of tree the creatures are to become.
+ </p>
+ </details>    
 
-* Name:Shout
-Level: 2
-Components:V/S
-School:Alteration
-Range:30ft Cone centered on your mouth
-Duration:
-Casting Time:1 Action
-Target:Self
-Description:When a shout spell is cast, the wizard gives himself tremendous vocal powers. The caster can emit an ear-splitting noise that has a principal effect in a cone shape radiating from his mouth to a point 30 feet away. Any creature within this area is deafened for 2d6 rounds and suffers 2d6 points of damage. A successful saving throw vs. spell negates the deafness and reduces the damage by half. Any exposed brittle or crystal substance subject to sonic vibrations is shattered by a shout, while those brittle objects in the possession of a creature receive the creature’s saving throw. Deafened creatures suffer a –1 penalty to surprise rolls, and those that cast spells with verbal components are 20% likely to miscast them. The shout spell cannot penetrate the 2nd-level priest spell, silence, 10’ radius. This spell can be employed only once per day; otherwise, the caster might permanently deafen himself. The material components for this spell are a drop of honey, a drop of citric acid, and a small cone made from a bull or ram horn.
+# Alteration
+Level 2    
+<details><summary>Gaze Reflection (V/S, 5ft, 1 Min, 1 Reaction, Self)</summary>
+<p>
+ 
+| Description |
+| --- |
+| The gaze reflection spell creates a shimmering, mirrorlike area of air before the wizard that moves with the caster. Any gaze attack, such as that of a basilisk, eyes of charming, a vampire's gaze, the 6th-level eyebite spell, and so on, is reflected back upon the gazer if the gazer tries to make eye contact with the spellcaster (the spellcaster suffers no effects from the gaze attack). Such creatures receive a saving throw vs. their own gaze effect. The spell does not affect vision or lighting and is not effective against creatures whose effect comes from being gazed upon (such as a medusa). Only active gaze attacks are blocked by this spell|
+ 
+</p>
+</details>
 
-* Name:Vacancy
-Level:2
-Components:V/S
-School:Alteration
-Range:30ft
-Duration:1 Hour
-Casting Time:1 Reaction
-Target:Special
-Description:When a vacancy spell is cast, the wizard causes an area to appear to be vacant, neglected, and unused. Those who behold the area see dust on the floor, cobwebs, dirt, and other conditions typical of a long-abandoned place. If they pass through the area of effect, they seem to leave tracks, tear away cobwebs, and so on. Unless they actually contact some object cloaked by the spell, the place appears empty. Merely brushing an invisible object does not cause the vacancy spell to be disturbed: Only forceful contact grants a chance to note that all is not as it seems. If forceful contact with a cloaked object occurs, those creatures subject to the spell can penetrate the spell only if they discover several items that they cannot see; each being is then entitled to a saving throw vs. spell. Failure means they believe that the objects are invisible. A dispel magic spell cancels this spell so that the true area is seen. A true seeing spell, a gem of seeing, and similar effects can penetrate the deception, but a detect invisibility spell cannot. This spell is a very powerful combination of invisibility and illusion, but it can cloak only non living things. Living things are not made invisible, but their presence does not otherwise disturb the spell.
+<details><summary>Wizard Lock (V/S, Touch, Permanent, 1 Action, Object)</summary>
+<p>
+ 
+| Description |
+| --- |
+| A wizard lock spell cast upon a door, chest, or portal magically locks it. The caster can freely pass his own lock without affecting it; otherwise, the wizard-locked door or object can be opened only by breaking in, by a successful dispel magic or knock spell, or by a wizard four or more levels higher than the one casting the spell. Note that the last two methods do not remove the wizard lock; they only negate it for a brief duration—about one turn. Creatures from other planes cannot burst a wizard lock as they can a held portal (see the hold portal spell). |
+
+</p>
+</details>
+
+<details><summary>Shout (V/S, 30ft Cone centered on your mouth, Instant, 1 Action, Self)</summary>
+<p>
+ 
+| Description |
+| --- |
+| When a shout spell is cast, the wizard gives himself tremendous vocal powers. The caster can emit an ear-splitting noise that has a principal effect in a cone shape radiating from his mouth to a point 30 feet away. Any creature within this area is deafened for 2d6 rounds and suffers 2d6 points of damage. A successful saving throw vs. spell negates the deafness and reduces the damage by half. Any exposed brittle or crystal substance subject to sonic vibrations is shattered by a shout, while those brittle objects in the possession of a creature receive the creature’s saving throw. Deafened creatures suffer a –1 penalty to surprise rolls, and those that cast spells with verbal components are 20% likely to miscast them. The shout spell cannot penetrate the 2nd-level priest spell, silence, 10’ radius. This spell can be employed only once per day; otherwise, the caster might permanently deafen himself. The material components for this spell are a drop of honey, a drop of citric acid, and a small cone made from a bull or ram horn. |
+
+</p>
+</details>
+
+<details><summary>Vacancy (V/S, 30ft, 1 Hour, 1 Reaction, Special)</summary>
+<p>
+ 
+| Description |
+| --- |
+| When a vacancy spell is cast, the wizard causes an area to appear to be vacant, neglected, and unused. Those who behold the area see dust on the floor, cobwebs, dirt, and other conditions typical of a long-abandoned place. If they pass through the area of effect, they seem to leave tracks, tear away cobwebs, and so on. Unless they actually contact some object cloaked by the spell, the place appears empty. Merely brushing an invisible object does not cause the vacancy spell to be disturbed: Only forceful contact grants a chance to note that all is not as it seems. If forceful contact with a cloaked object occurs, those creatures subject to the spell can penetrate the spell only if they discover several items that they cannot see; each being is then entitled to a saving throw vs. spell. Failure means they believe that the objects are invisible. A dispel magic spell cancels this spell so that the true area is seen. A true seeing spell, a gem of seeing, and similar effects can penetrate the deception, but a detect invisibility spell cannot. This spell is a very powerful combination of invisibility and illusion, but it can cloak only non living things. Living things are not made invisible, but their presence does not otherwise disturb the spell. |
+
+</p>
+</details>
+
+Level 4
+<details><summary>Massmorph (V/S/M(Handful of bark chips), 25ft Diameter, Permanent until dispelled, 1 Action, 10 or less willing creatures Large or smaller)</summary>
+<p>
+ 
+| Description |
+| --- |
+| When this spell is cast upon willing creatures of man-size or smaller, up to 10 such creatures per level of the caster can be magically altered to appear as trees of any sort. Thus, a company of creatures can be made to appear as a copse, grove, or orchard. Furthermore, these mass morphed creatures can be passed through and even touched by other creatures without revealing their true nature. Note, however, that blows to the creature-trees cause damage, and blood can be seen. Creatures to be mass morphed must be within the spell’s area of effect; unwilling creatures are not affected. Affected creatures remain unmoving but aware, subject to normal sleep requirements, and able to see, hear, and feel for as long as the spell is in effect. The spell persists until the caster commands it to cease or until a dispel magic spell is cast upon the creatures. Creatures left in this state for extended periods are subject to insects, weather, disease, fire, and other natural hazards. The material component of this spell is a handful of bark chips from the type of tree the creatures are to become. |
+
+</p>
+</details>
+
+# Illusion
+
+Level 1
+
+
+Level 2
+<details><summary>Leomund's Trap (V,S,M(small mechanism or device), Touch, Permanent, 1 Action, Self)</summary>
+<p>
+ 
+| Description |
+| --- |
+| This spell makes a lock or small mechanism seem to be trapped to anyone who can detect traps. You place the spell upon any small mechanism or device, such as a lock, hinge, hasp, cork, cap, or ratchet. Any character able to detect traps, or who uses any spell or device enabling trap detection, is 100% certain a real trap exists. Of course, the effect is illusory and nothing happens if the trap is "sprung"; its primary purpose is to frighten away thieves or make them waste precious time.
+If another Leomund's trap is active within 50 feet when the spell is cast, the casting fails. |
+
+</p>
+</details>
+
+<details><summary>Misdirection (V/S, Self-centered in a 15ft diameter, 15 Minutes, 1 Action, Self)</summary>
+<p>
+ 
+| Description |
+| --- |
+| By means of this spell, the wizard misdirects the information from a detection spell (detect charm, detect evil, detect invisibility, detect lie, detect magic, detect snares and pits, etc.). While the detection spell functions, it indicates the wrong area, creature, or the opposite of the truth with respect to detect evil or detect lie. The wizard directs the spell effect upon the object of the detection spell. If the caster of the detection spell fails his saving throw vs. spell, the misdirection takes place. Note that this spell does not affect other types of divination (know alignment, augury, ESP, clairvoyance, etc.) |
+
+</p>
+</details>
+
+<details><summary>Delude (S, 50ft, Instant, 1 Action, 1 creature you can see within range)</summary>
+<p>
+ 
+| Description |
+| --- |
+| By means of a delude spell, the wizard conceals his own alignment with that of any creature within range at the time the spell is cast. The creature must be of higher than animal intelligence for the spell to work; its own alignment remains unchanged. The creature receives a saving throw vs. spell and, if successful, the delude spell fails. If the spell is successful, any know alignment spell used against the caster discovers only the assumed alignment. Note that a detect good or detect evil also detects the assumed aura, if the aura is strong enough. The creature whose aura has been assumed radiates magic, but the wizard radiates magic only to the creature whose alignment has been assumed. If a delude spell is used in conjunction with a change self or alter self spell, the class of the wizard can be totally hidden, if he is clever enough to carry off the disguise. |
+
+</p>
+</details>
+
+# Conjuration
+
+Level 2
+
+<details><summary>Sepia Snake Sigil (V/S/M(100gp worth of diamonds), 15ft, Special, 1 Action, Special)</summary>
+<p>
+ 
+| Description |
+| --- |
+| When this spell is cast, a small written symbol appears in the text of any written work. When read, the so-called sepia snake springs into being and strikes at the nearest living creature (but does not attack the wizard who cast the spell). Its attack is made as if it were a monster with Hit Dice equal to the level of the wizard who cast the spell. If it strikes successfully, the victim is engulfed in a shimmering amber field of force, frozen and immobilized until released, either at the caster’s command, by a successful dispel magic spell, or until a time equal to 1d4 days + 1 day per caster level has elapsed. Until then, nothing can get at the victim, move the shimmering force surrounding him, or otherwise affect him. The victim does not age, grow hungry, sleep, or regain spells while in this state. He is not aware of his surroundings. If the sepia snake misses its target, it dissipates in a flash of brown light, with a loud noise and a puff of dun-colored smoke that is 10 feet in diameter and lasts for one round. The spell cannot be detected by normal observation, and detect magic reveals only that the entire text is magical. A dispel magic can remove it; an erase spell destroys the entire page of text. It can be cast in combination with other spells that hide or garbled text. The components for the spell are 100 gp worth of powdered amber, a scale from any snake, and a pinch of mushroom spores. |
+
+</p>
+</details>
+
+
 
 * Name:Airy Water
 Level:1
