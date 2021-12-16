@@ -7,7 +7,7 @@ Clicking on it will show you the description.
 
 
 # Transmutation
-### _Cantrips_
+### _Cantrip_
 
 <details><summary>Inhale (V/S, Self, Instant, 1 Bonus Action, Self)</summary>
 <p>
@@ -19,8 +19,6 @@ Clicking on it will show you the description.
 
 </p>
 </details>
-
-(*Level 1:(*)
 
 ### _Level 1_ 
  <details><summary>Erase (V/S, 5ft, Permanent, 1 Action, Any visible text)</summary>   
@@ -42,7 +40,16 @@ Clicking on it will show you the description.
 
 </p>
 </details>
+
+<details><summary>Airy Water (V/S/M(a small handful of bromine salts), 15ft, 1 Hour, 1 Reaction, Self)</summary>
+<p>
  
+| Description |
+| --- |
+| The airy water spell turns normal liquid, such as water or waterbased solutions, into a less dense, breathable substance. Thus, if the wizard wanted to enter an underwater place, he would step into the water, cast the spell, and sink downward in a globe of bubbling water. He and any companions in the spell’s area of effect can move freely and breathe just as if the bubbling water were air. The globe is centered on and moves with the caster. Water-breathing creatures avoid a sphere (or hemisphere) of airy water, although intelligent ones can enter it if they are able to move by means other than swimming. No water-breathers can breathe in an area affected by this spell. There is only one word that needs to be spoken to actuate the magic; thus, it can be cast under water. The spell does not filter or remove solid particles of matter. The material component of the spell is a small handful of alkaline or bromine salts. |
+
+</p>
+</details>
  
  ### _Level 2_
  
@@ -74,6 +81,16 @@ Clicking on it will show you the description.
 | Description |
 | --- |
 | You are able to shrink one non magical item (if it is within the size limit) to one twelfth of its normal size in each dimension (to about 1/2,000th the original volume and mass). Optionally, you can also change its now-shrunken composition to a clothlike one. Objects changed by a shrink item spell can be returned to normal composition and size merely by tossing them onto any solid surface or by a word of command from the original caster. Even a burning fire and its fuel can be shrunk by this spell. Restoring the shrunken object to its normal size and composition ends the spell. If a shrunken item is made permanent (see the permanency spell), the affected object can be shrunk and expanded an indefinite number of times, but only by the original caster. |
+
+</p>
+</details>
+
+<details><summary>Glassteel (V/S, Touch, Permanent, 1 Action, Special)</summary>
+<p>
+ 
+| Description |
+| --- |
+| The glassteel spell turns normal, nonmagical crystal or glass into a transparent substance that has the tensile strength and unbreakability of actual steel. Only a relatively small volume of material can be affected (a maximum weight of 10 pounds per level of experience of the spellcaster), and it must form one whole object. The Armor Class of the substance is 1. The material components of this spell are a small piece of glass and a small piece of steel. |
 
 </p>
 </details>
@@ -226,9 +243,6 @@ The caster must physically touch the item; if it is an opponent or something an 
 
 # Illusion
 
-### _Level 1_
-
-
 ### _Level 2_
 <details><summary>Leomund's Trap (V,S,M(small mechanism or device), Touch, Permanent, 1 Action, Self)</summary>
 <p>
@@ -262,7 +276,7 @@ If another Leomund's trap is active within 50 feet when the spell is cast, the c
 </details>
 
 # Conjuration
-### _Cantrips_
+### _Cantrip_
 
 <details><summary>Summon Weapon (V/S, 10 ft, 10 Minutes, 1 Action, Unoccupied space you can see within range)</summary>
 <p>
@@ -283,31 +297,6 @@ Higher Level Casting: At level 5, this weapon gains a +1 to attack rolls and dam
 | Description |
 | --- |
 | When this spell is cast, a small written symbol appears in the text of any written work. When read, the so-called sepia snake springs into being and strikes at the nearest living creature (but does not attack the wizard who cast the spell). Its attack is made as if it were a monster with Hit Dice equal to the level of the wizard who cast the spell. If it strikes successfully, the victim is engulfed in a shimmering amber field of force, frozen and immobilized until released, either at the caster’s command, by a successful dispel magic spell, or until a time equal to 1d4 days + 1 day per caster level has elapsed. Until then, nothing can get at the victim, move the shimmering force surrounding him, or otherwise affect him. The victim does not age, grow hungry, sleep, or regain spells while in this state. He is not aware of his surroundings. If the sepia snake misses its target, it dissipates in a flash of brown light, with a loud noise and a puff of dun-colored smoke that is 10 feet in diameter and lasts for one round. The spell cannot be detected by normal observation, and detect magic reveals only that the entire text is magical. A dispel magic can remove it; an erase spell destroys the entire page of text. It can be cast in combination with other spells that hide or garbled text. The components for the spell are 100 gp worth of powdered amber, a scale from any snake, and a pinch of mushroom spores. |
-
-</p>
-</details>
-
-# Transmutation
-### _Level 1_
-
-<details><summary>Airy Water (V/S/M(a small handful of bromine salts), 15ft, 1 Hour, 1 Reaction, Self)</summary>
-<p>
- 
-| Description |
-| --- |
-| The airy water spell turns normal liquid, such as water or waterbased solutions, into a less dense, breathable substance. Thus, if the wizard wanted to enter an underwater place, he would step into the water, cast the spell, and sink downward in a globe of bubbling water. He and any companions in the spell’s area of effect can move freely and breathe just as if the bubbling water were air. The globe is centered on and moves with the caster. Water-breathing creatures avoid a sphere (or hemisphere) of airy water, although intelligent ones can enter it if they are able to move by means other than swimming. No water-breathers can breathe in an area affected by this spell. There is only one word that needs to be spoken to actuate the magic; thus, it can be cast under water. The spell does not filter or remove solid particles of matter. The material component of the spell is a small handful of alkaline or bromine salts. |
-
-</p>
-</details>
-
-### _Level 4_
-
-<details><summary>Glassteel (V/S, Touch, Permanent, 1 Action, Special)</summary>
-<p>
- 
-| Description |
-| --- |
-| The glassteel spell turns normal, nonmagical crystal or glass into a transparent substance that has the tensile strength and unbreakability of actual steel. Only a relatively small volume of material can be affected (a maximum weight of 10 pounds per level of experience of the spellcaster), and it must form one whole object. The Armor Class of the substance is 1. The material components of this spell are a small piece of glass and a small piece of steel. |
 
 </p>
 </details>
