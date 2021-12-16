@@ -1,6 +1,6 @@
 # Homebrew Races/ Race Changes
 
-Dragonborn;
+### Dragonborn;
 -Walking Speed:35
 -Breath:+1d8 every 5 levels.After 10th level you can add your Con Modifier to your damage. Bonus Action.
 -Draconic Tail and Claws(level 3), Draconic Wings(lvl 8)
@@ -21,7 +21,7 @@ Dragon's Eye=Once per long rest you can make your eyes glow with intensity, for 
 
 (Level 20)You may transform into a true dragon, you will remain the same size, indefinitely, you can transform back at any time.
 
-Tiefling;
+### Tiefling;
 -Resistance to the dominant type
 -Hellish Rebuke: (3x/Day, scale: +1d12, 7th, 11th, 15th levels)
 -Devils Sight (level 3, 60ft)
