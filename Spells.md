@@ -8,6 +8,60 @@ Clicking on it will show you the description.
 
 # Transmutation
 
+* Name:Freedom
+Level:9
+Components:V/S/C
+School:Transmutation
+Range:15ft
+Duration:Instantaneous
+Casting Time:4 hours
+Target:Special
+Description:The subject is freed from spells and effects that restrict his movement, including entangle, hold, imprisonment, paralysis, petrification, sleep, slow, stunning, temporal stasis, and web. To free someone from imprisonment, you must know his name and background, and you must cast this spell at the spot where he was entombed.
+
+* Name:Liveoak
+Level:5
+Components:V/S/C
+School:Transmutation(Druid)
+Range:Touch
+Duration:Special
+Casting Time:1 Action
+Target:Tree
+Description:This spell turns an oak tree into a protector or guardian. The spell can be cast on only a single tree at a time; while Liveoak is in effect, you can’t cast it again on another tree. The tree on which the spell is cast must be within 10 feet of your dwelling place, within a place sacred to you, or within 300 feet of something that you wish to guard or protect.
+Liveoak must be cast on a healthy, Huge oak. A triggering phrase of up to one word per caster level is placed on the targeted oak. The liveoak spell triggers the tree into animating as a treant.
+If liveoak is dispelled, the tree takes root immediately, wherever it happens to be. If released by you, the tree tries to return to its original location before taking root.
+
+* Name:Make Whole
+Level:2
+Components:V/S/C
+School:Transmutation
+Range:Touch
+Duration:Permanent
+Casting Time:1 Bonus Action
+Target:Special
+Description:As mending, except Make Whole completely repairs an object made of any substance, even one with multiple breaks, to be as strong as new. The spell does not restore the magical abilities of a broken magic item made whole, and it cannot mend broken magic rods, staffs, or wands. The spell does not repair items that have been warped, burned, disintegrated, ground to powder, melted, or vaporized.
+
+* Name:Shrink Item
+Level:4
+Components:V/S/C
+School:Transmutation
+Range:Touch
+Duration:1 Day
+Casting Time:1 Action
+Target:Special
+Description:You are able to shrink one non magical item (if it is within the size limit) to one twelfth of its normal size in each dimension (to about 1/2,000th the original volume and mass). Optionally, you can also change its now-shrunken composition to a clothlike one. Objects changed by a shrink item spell can be returned to normal composition and size merely by tossing them onto any solid surface or by a word of command from the original caster. Even a burning fire and its fuel can be shrunk by this spell. Restoring the shrunken object to its normal size and composition ends the spell. If a shrunken item is made permanent (see the permanency spell), the affected object can be shrunk and expanded an indefinite number of times, but only by the original caster.
+
+* Name:Status
+Level:2
+Components:V/S/C
+School:Transmutation
+Range:Touch
+Duration:1 Hour
+Casting Time:1 Bonus Action
+Target:One willing creature within range
+Description:When a cleric needs to keep track of comrades who may get separated, status allows him to mentally monitor their relative positions and general condition. The cleric is aware of direction and distance to the creatures and their status: unharmed, wounded, disabled, staggered, unconscious, dying, dead, etc. Once the spell has been cast upon the subjects, the distance between them and the caster does not affect the spell as long as they are on the same plane of existence. If they leave it, the spell ceases to function for them.
+
+
+
 ### _Level 1_ 
  <details><summary>Erase (V/S, 5ft, Permanent, 1 Action, Any visible text)</summary>   
  <p>
