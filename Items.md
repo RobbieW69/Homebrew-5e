@@ -20,7 +20,7 @@
 </p>
 </details>
 
-<details><summary>Arm Band of Leadership({Rare}</summary>
+<details><summary>Arm Band of Leadership{Rare}</summary>
 <p>
  
 | Description |
@@ -30,7 +30,7 @@
 </p>
 </details>
 
-<details><summary>Hat of  Space({Legendary}</summary>
+<details><summary>Hat of  Space{Legendary}</summary>
 <p>
  
 | Description |
@@ -40,7 +40,7 @@
 </p>
 </details>
 
-<details><summary>Hat of Fire({Legendary}</summary>
+<details><summary>Hat of Fire{Legendary}</summary>
 <p>
  
 | Description |
@@ -50,7 +50,7 @@
 </p>
 </details>
 
-<details><summary>Mask of Disguise(*{Requires Attunement, Very Rare}</summary>
+<details><summary>Mask of Disguise{Requires Attunement, Very Rare}</summary>
 <p>
  
 | Description |
@@ -60,7 +60,7 @@
 </p>
 </details>
 
-<details><summary>Robe of Invisibility({Rare}</summary>
+<details><summary>Robe of Invisibility{Rare}</summary>
 <p>
  
 | Description |
@@ -70,7 +70,7 @@
 </p>
 </details>
 
-<details><summary>Hasp of Antitheft({Artifact}</summary>
+<details><summary>Hasp of Antitheft{Artifact}</summary>
 <p>
  
 | Description |
@@ -80,7 +80,7 @@
 </p>
 </details>
 
-<details><summary>Bear Ring({Uncommon}</summary>
+<details><summary>Bear Ring{Uncommon}</summary>
 <p>
  
 | Description |
