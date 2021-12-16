@@ -1,7 +1,7 @@
 # Homebrew Spells
 * Name:Erase
-Components:V, S
-School:Transmutation
+  * Components:V, S 
+  * [ ] School:Transmutation     
 Range:5ft
 Level:1
 Duration:Permanent
