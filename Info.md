@@ -1,6 +1,6 @@
-#Generic Info
+# Generic Info
 Just some generic info to be aware of that you won't find in a source book.
-####Changes
+#### Changes
 * Long Rest= At minimum: 8 hours of rest or more. 
 
 * Short Rest= 2 hours of doing nothing, napping, meditating, non combat/intensive or stressful work. (Ex: Walking on a road, going to the bathroom, reading a book)
