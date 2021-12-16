@@ -5,7 +5,7 @@
  
 | Description |
 | --- |
-| The robe looks like the ocean waves are alive rollong on it, this robe allows the wearer to breathe underwater and gain swimming speed equal to their movement speed until the robe is taken off. This robe is invisible while underwater. |
+| The robe looks like the ocean waves are alive rolling on it, this robe allows the wearer to breathe underwater and gain swimming speed equal to their movement speed until the robe is taken off. This robe is invisible while underwater. |
 
 </p>
 </details>
