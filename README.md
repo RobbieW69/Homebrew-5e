@@ -1,6 +1,7 @@
 # My Homebrew for Dungeons & Dragons 5th Edition!
 ## Quick Navigation
 * [Rules](../main/Rules.md)
+* [Info](../main/Info.md)
 * [Races](../main/Races.md)
 * [Items](../main/Items.md)
 * [Spells](../main/Spells.md)
