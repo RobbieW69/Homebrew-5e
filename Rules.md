@@ -1,14 +1,8 @@
-# My Rules/Info
+# My Rules
 * This homebrew is a mix and mash up of different spells, items, feats and other mechanics that come from my own imagination, Pathfinder, Earlier versions of DnD,and other materials, so be warned this game will play differently than normal 5e.
 
 * This is 5e based, however I will say that not everything is boiled down to advantage/disadvantage, at my discretion + and - to hit or miss will be decided on how hard or easy a task is, and I will try to be realistic with it. EX: If you're flying and invisible, for the enemy to shoot you in the sky will be a -10 to their roll since it would be extremely hard to hit a flying invisible target or a -15 if the sun is directly in their eyes, simple disadvantage doesn't do the justice of showing how hard some feats can be.
 
-+ ***Scaling Feats with levels and attunement slots, i.e. 4th level = 1ft + 1asi +1att slot, 8th level = 2ft + 1asi+1att slot, 12th level = 2ft + 1asi+1att slot, 16th level = 3ft + 2asi +2att slot, 20th level = 4ft + 3asi +3att slot. Only for first class.***
+* All rolling has to be done in front of me. Either on Discord or Foundry with cam on Idrc, I just need to see the roll with my own eyes.
 
-* All rolling has to be done in front of me. Either on Roll20 or with cam on Idrc, I just need to see the roll with my own eyes.
-
-* Mastery Points;10 successful Nat 20's in a specific Ability gains you a Mastery Point in that ability. Example: using a level 1 spell as a wizard, and getting a Crit 10 times will give you a Mastery Point in Intelligence. Remember to keep track of your Nat20s! You can spend mastery points in two ways: 
-  * You can spend 5 points on one specific Attack, whether its a spell attack or unarmed strike, that attack forever after does Max Damage or You can make the Spell specifically one spell level lower than it actually is. 
-  * You can spend 1 Point to make a specific Attack +1/+1, however it scales so it would look like: 1 point = +1/+1, +2 points = +2/+2,  +4 points = +3/+3, +5 points = +4/+4, +6 points = +5/+5. So if you spent a total of 18 Mastery Points on the Attack or Weapon you are proficient with, you gain a +5/+5 to the attack. If you do not meet the mastery point requirement for any feat, you cannot use that feat until you have the required amount.
-  
-* Learning spells!!!(if you have ANY(this will be a roll unless your base class is a magic caster)  magical capabilities, you can be taught spells depending on your Int or Cha and time spent(typically a level 1 spell would take 2 months depending on your class) I can work with you one on one about specific spells and capabilities.
+* If you want secrets from the party, that's fine, but as the DM I have to know what you want to do so I know what all needs rolled, also if you do something out of character, I'll ask for the reason, I mean just explain what the reason is, as long as it makes sense we're good!
