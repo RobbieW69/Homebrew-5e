@@ -7,60 +7,20 @@ Clicking on it will show you the description.
 
 
 # Transmutation
+### _Cantrips_
 
-* Name:Freedom
-Level:9
-Components:V/S/C
-School:Transmutation
-Range:15ft
-Duration:Instantaneous
-Casting Time:4 hours
-Target:Special
-Description:The subject is freed from spells and effects that restrict his movement, including entangle, hold, imprisonment, paralysis, petrification, sleep, slow, stunning, temporal stasis, and web. To free someone from imprisonment, you must know his name and background, and you must cast this spell at the spot where he was entombed.
+<details><summary>Inhale (V/S, Self, Instant, 1 Bonus Action, Self)</summary>
+<p>
+ 
+| Description |
+| --- |
+| Prerequististes: You must have the ability to use a breath weapon, and the ability to use magic.
+ This spell makes you breathe in more air, adding an extra 1d5 to your breath weapon damage for 1 minute. |
 
-* Name:Liveoak
-Level:5
-Components:V/S/C
-School:Transmutation(Druid)
-Range:Touch
-Duration:Special
-Casting Time:1 Action
-Target:Tree
-Description:This spell turns an oak tree into a protector or guardian. The spell can be cast on only a single tree at a time; while Liveoak is in effect, you can’t cast it again on another tree. The tree on which the spell is cast must be within 10 feet of your dwelling place, within a place sacred to you, or within 300 feet of something that you wish to guard or protect.
-Liveoak must be cast on a healthy, Huge oak. A triggering phrase of up to one word per caster level is placed on the targeted oak. The liveoak spell triggers the tree into animating as a treant.
-If liveoak is dispelled, the tree takes root immediately, wherever it happens to be. If released by you, the tree tries to return to its original location before taking root.
+</p>
+</details>
 
-* Name:Make Whole
-Level:2
-Components:V/S/C
-School:Transmutation
-Range:Touch
-Duration:Permanent
-Casting Time:1 Bonus Action
-Target:Special
-Description:As mending, except Make Whole completely repairs an object made of any substance, even one with multiple breaks, to be as strong as new. The spell does not restore the magical abilities of a broken magic item made whole, and it cannot mend broken magic rods, staffs, or wands. The spell does not repair items that have been warped, burned, disintegrated, ground to powder, melted, or vaporized.
-
-* Name:Shrink Item
-Level:4
-Components:V/S/C
-School:Transmutation
-Range:Touch
-Duration:1 Day
-Casting Time:1 Action
-Target:Special
-Description:You are able to shrink one non magical item (if it is within the size limit) to one twelfth of its normal size in each dimension (to about 1/2,000th the original volume and mass). Optionally, you can also change its now-shrunken composition to a clothlike one. Objects changed by a shrink item spell can be returned to normal composition and size merely by tossing them onto any solid surface or by a word of command from the original caster. Even a burning fire and its fuel can be shrunk by this spell. Restoring the shrunken object to its normal size and composition ends the spell. If a shrunken item is made permanent (see the permanency spell), the affected object can be shrunk and expanded an indefinite number of times, but only by the original caster.
-
-* Name:Status
-Level:2
-Components:V/S/C
-School:Transmutation
-Range:Touch
-Duration:1 Hour
-Casting Time:1 Bonus Action
-Target:One willing creature within range
-Description:When a cleric needs to keep track of comrades who may get separated, status allows him to mentally monitor their relative positions and general condition. The cleric is aware of direction and distance to the creatures and their status: unharmed, wounded, disabled, staggered, unconscious, dying, dead, etc. Once the spell has been cast upon the subjects, the distance between them and the caster does not affect the spell as long as they are on the same plane of existence. If they leave it, the spell ceases to function for them.
-
-
+(*Level 1:(*)
 
 ### _Level 1_ 
  <details><summary>Erase (V/S, 5ft, Permanent, 1 Action, Any visible text)</summary>   
@@ -83,6 +43,66 @@ Description:When a cleric needs to keep track of comrades who may get separated,
 </p>
 </details>
  
+ 
+ ### _Level 2_
+ 
+ <details><summary>Status (V/S/C, Touch, 1 Hour, 1 Bonus Action, One willing creature within range)</summary>
+<p>
+ 
+| Description |
+| --- |
+| When a cleric needs to keep track of comrades who may get separated, status allows him to mentally monitor their relative positions and general condition. The cleric is aware of direction and distance to the creatures and their status: unharmed, wounded, disabled, staggered, unconscious, dying, dead, etc. Once the spell has been cast upon the subjects, the distance between them and the caster does not affect the spell as long as they are on the same plane of existence. If they leave it, the spell ceases to function for them. |
+
+</p>
+</details>
+
+<details><summary>Make Whole (V/S/C, Touch, Permanent, 1 Bonus Action, Special)</summary>
+<p>
+ 
+| Description |
+| --- |
+| As mending, except Make Whole completely repairs an object made of any substance, even one with multiple breaks, to be as strong as new. The spell does not restore the magical abilities of a broken magic item made whole, and it cannot mend broken magic rods, staffs, or wands. The spell does not repair items that have been warped, burned, disintegrated, ground to powder, melted, or vaporized. |
+
+</p>
+</details>
+
+### _level 4_
+
+<details><summary>Shrink Item (V/S/C, Touch, 1 Day, 1 Action, Special)</summary>
+<p>
+ 
+| Description |
+| --- |
+| You are able to shrink one non magical item (if it is within the size limit) to one twelfth of its normal size in each dimension (to about 1/2,000th the original volume and mass). Optionally, you can also change its now-shrunken composition to a clothlike one. Objects changed by a shrink item spell can be returned to normal composition and size merely by tossing them onto any solid surface or by a word of command from the original caster. Even a burning fire and its fuel can be shrunk by this spell. Restoring the shrunken object to its normal size and composition ends the spell. If a shrunken item is made permanent (see the permanency spell), the affected object can be shrunk and expanded an indefinite number of times, but only by the original caster. |
+
+</p>
+</details>
+
+### _Level 5_
+
+<details><summary>Liveoak (V/S/C, Touch, Special, 1 Action, Tree)</summary>
+<p>
+ 
+| Description |
+| --- |
+| This spell turns an oak tree into a protector or guardian. The spell can be cast on only a single tree at a time; while Liveoak is in effect, you can’t cast it again on another tree. The tree on which the spell is cast must be within 10 feet of your dwelling place, within a place sacred to you, or within 300 feet of something that you wish to guard or protect.
+Liveoak must be cast on a healthy, Huge oak. A triggering phrase of up to one word per caster level is placed on the targeted oak. The liveoak spell triggers the tree into animating as a treant.
+If liveoak is dispelled, the tree takes root immediately, wherever it happens to be. If released by you, the tree tries to return to its original location before taking root. |
+
+</p>
+</details>
+
+### _Level 9_
+
+<details><summary>Freedom (V/S/C, 15ft, Instant, 4 hours, Special)</summary>
+<p>
+ 
+| Description |
+| --- |
+| The subject is freed from spells and effects that restrict his movement, including entangle, hold, imprisonment, paralysis, petrification, sleep, slow, stunning, temporal stasis, and web. To free someone from imprisonment, you must know his name and background, and you must cast this spell at the spot where he was entombed. |
+
+</p>
+</details>
 
 # Alteration
 ### _Level 2_   
@@ -242,6 +262,18 @@ If another Leomund's trap is active within 50 feet when the spell is cast, the c
 </details>
 
 # Conjuration
+### _Cantrips_
+
+<details><summary>Summon Weapon (V/S, 10 ft, 10 Minutes, 1 Action, Unoccupied space you can see within range)</summary>
+<p>
+ 
+| Description |
+| --- |
+| This cantrip allows you to conjure any non-magical weapon that is worth 150gp or less. The weapon could be a sword, baton, mace, ect. It will appear anywhere in any unoccupied space you can see within 10ft and will last for 10 Minutes or until the spell is dispelled beforehand. As an action you can have the weapon make an attack, the weapon uses the casters stats for rolling attack and damage.
+Higher Level Casting: At level 5, this weapon gains a +1 to attack rolls and damage rolls. Level 10 this spell gains +2 to attack rolls and +2 to damage rolls. Level 15 or higher and the weapon gains a magical property, chosen by the DM, also the user gains Finesse with this weapon, the Finesse only applies to this weapon. |
+
+</p>
+</details>
 
 ### _Level 2_
 
@@ -320,7 +352,17 @@ If another Leomund's trap is active within 50 feet when the spell is cast, the c
 </details>
 
 # Abjuration
+### _Level 3_
 
+<details><summary>Extension (V/S/C, Special, Special, 1 Bonus Action, Spell)</summary>
+<p>
+ 
+| Description |
+| --- |
+| Extends a spell the caster has prepared or casted already by the casters level divided by 2. |
+
+</p>
+</details>
 
 ### _Level 7_
 
@@ -336,17 +378,3 @@ If another Leomund's trap is active within 50 feet when the spell is cast, the c
 
 
 
-* Name:Extension
-Level:3
-Components:V/S/C
-School:Abjuration
-Range:Special
-Duration:Special
-Casting Time:1 Bonus Action
-Target:Spell
-Description:Extends a spell the caster has prepared or casted already by the casters level divided by 2.
-
-* Summon Weapon(*This cantrip allows you to conjure any non-magical weapon that is worth 150gp or less. The weapon could be a sword, baton, mace, ect. It will appear anywhere in any unoccupied space you can see within 10ft and will last for 10 Minutes or until the spell is dispelled beforehand. As an action you can have the weapon make an attack, the weapon uses the casters stats for rolling attack and damage.
-Higher Level Casting: At level 5, this weapon gains a +1 to attack rolls and damage rolls. Level 10 this spell gains +2 to attack rolls and +2 to damage rolls. Level 15 or higher and the weapon gains a magical property, chosen by the DM, also the user gains Finesse with this weapon, the Finesse only applies to this weapon.*)
-
-* Inhale(*Level 1:(Dragonborn+Spellcaster)This spell makes you breathe in more air, adding an extra 1d5 to your breath weapon damage for 1 minute. Instantaneous. No material components required.*)
