@@ -1,5 +1,5 @@
-#My Homebrew for Dungeons & Dragons 5th Edition!
-##Quick Navigation
+# My Homebrew for Dungeons & Dragons 5th Edition!
+## Quick Navigation
 * [Items](../main/Items)
 * [Spells](../main/Spells)
 * [Feats](../main/Feats)
