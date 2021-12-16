@@ -1,5 +1,5 @@
 # Generic Info
-Just some generic info to be aware of that you won't find in a source book.
+**_This information is important make sure to read it_**
 #### Changes
 * Long Rest= At minimum: 8 hours of rest or more. 
 
