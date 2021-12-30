@@ -3,7 +3,7 @@ All the spells are sectioned by schools and then by level, each collapsable spel
 
 *[Name (Components, Range, Duration, Cast Time, Target)]()*   
 
-Clicking on it will show you the description. 
+Clicking on the spell name will show you the description. 
 
 
 # Transmutation
