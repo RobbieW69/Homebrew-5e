@@ -190,3 +190,23 @@ You can replace the patch on the backpack of shared storage with another patch t
 
 </p>
 </details>
+
+<details><summary>Ariels Necklace of Fish Talking</summary>
+<p>
+ 
+| Description |
+| --- |
+| This necklace has a small white seashell on it, allows the wearer to activate it with a command word, after which it disappears into their skin and grows gills on the neck of the wearer (if they do not already have them) and grants the user the ability to speak to aquatic creatures, lasts 1 hour or until deactivated. 15 Minutes before the spell will run out the shell itself will reappear on the hand of the user like a tattoo and will start to flash white, once it gets to 30 seconds it will start flashing red. Once dispelled the necklace will reappear and the effects will disappear. |
+
+</p>
+</details>
+
+<details><summary>Eraser</summary>
+<p>
+ 
+| Description |
+| --- |
+| Erases magical or mundane writings from paper, parchment, or similar. It won't remove magic runes such as explosive runes or a symbol. |
+
+</p>
+</details>

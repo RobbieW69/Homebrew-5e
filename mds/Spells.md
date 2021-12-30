@@ -21,16 +21,7 @@ Clicking on it will show you the description.
 </details>
 
 ### _Level 1_ 
- <details><summary>Erase (V/S, 5ft, Permanent, 1 Action, Any visible text)</summary>   
- <p>
-
- | Description |
- | --- |
- | Erases magical or mundane writings from paper, parchment, or similar. It won't remove magic runes such as explosive runes or a symbol. |
-
- </p>
- </details>    
- 
+     
 <details><summary>Stone Tell (V/S/C, 10ft, 1 Minute, 1 Bonus Action, Rock or stone)</summary>
 <p>
  
