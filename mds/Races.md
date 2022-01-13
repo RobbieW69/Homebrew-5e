@@ -6,7 +6,7 @@
 -Draconic Tail and Claws(level 3), Draconic Wings(lvl 8)     
 -Fly speed:35     
 -Life:250 Years    
--Rune Sight or Darkvision (60ft)    
+-Rune Sight or Darkvision (60ft) Your choice.
 
 -Feats:
 Dragon's Eye=Once per long rest you can make your eyes glow with intensity, for 15 minutes you have True Sight.    
