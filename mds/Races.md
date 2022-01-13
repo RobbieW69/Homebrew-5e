@@ -15,7 +15,7 @@ Dragon's Eye=Once per long rest you can make your eyes glow with intensity, for 
 
 (Level 12)Multidragon=You may choose another draconic ancestry damage type, your breath weapon will do an extra 1d6 of the second type combined with the normal one.(You gain resistance to this damage type)    
 
-(Level  17)True Dragon=For 1 minute your body transforms into a dragons, but you stay the same size, you cannot cast spells, however your breath weapon takes an Action while in the transformation and does an extra 12d6 damage, you gain a Claw attack that does 2d12+2 Slashing. Your fly speed becomes 80.    
+(Level  17)True Dragon=For 10 minutes your body transforms into a dragons, but you stay the same size, you cannot cast spells, however your breath weapon takes an Action while in the transformation and does an extra 12d6 damage, you gain a Claw attack that does 2d12+2 Slashing. Your fly speed becomes 80.    
 
 (Level 16)Flight=Your fly speed becomes 60.     
 
