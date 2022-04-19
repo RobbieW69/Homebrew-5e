@@ -146,7 +146,7 @@ Description:Any creature using a teleportation effect to enter or leave a square
 
 Feat:Improved Sentinel
 Requirements:Sentinel
-Description:Any creature that enters or leaves a square threatened by you provokes an attack of opportunity.Even if they have a feat that would otherwise prevent it.
+Description:Any creature that enters or leaves a square threatened by you provokes an attack of opportunity.Even if they have a feat that would otherwise prevent it, except for Avoidance.
 
 Feat:Tenacious Transmutation
 Requirements:Spell Focus(feat:transmutation), Ability to cast at least one Transmutation spell.
