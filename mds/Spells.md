@@ -66,7 +66,7 @@ Clicking on the spell name will show you the description.
 
 ### _level 4_
 
-<details><summary>Shrink Item (V/S/C, Touch, 1 Day, 1 Action, Special)</summary>
+<details><summary>Shrink Item (V/S/C, Touch, 1 Day, 1 Action, Special, Up to 300lbs)</summary>
 <p>
  
 | Description |
