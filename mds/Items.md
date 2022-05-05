@@ -196,7 +196,7 @@ You can replace the patch on the backpack of shared storage with another patch t
  
 | Description |
 | --- |
-| This necklace has a small white seashell on it, allows the wearer to activate it with a command word, after which it disappears into their skin and grows gills on the neck of the wearer (if they do not already have them) allowing them to breathe underwater, and grants the user the ability to speak to aquatic creatures as well as a sim speed equal to their walking speed, lasts 1 hour or until deactivated. 15 Minutes before the spell will run out the shell itself will reappear on the hand of the user like a tattoo and will start to flash white, once it gets to 30 seconds it will start flashing red. Once dispelled the necklace will reappear and the effects will disappear. |
+| This necklace has a small white seashell on it, allows the wearer to activate it with a command word, after which it disappears into their skin and grows gills on the neck of the wearer (if they do not already have them) allowing them to breathe underwater, and grants the user the ability to speak to aquatic creatures as well as a swim speed equal to their walking speed, lasts 1 hour or until deactivated. 15 Minutes before the spell will run out the shell itself will reappear on the hand of the user like a tattoo and will start to flash white, once it gets to 30 seconds it will start flashing red. Once dispelled the necklace will reappear and the effects will disappear. |
 
 </p>
 </details>
