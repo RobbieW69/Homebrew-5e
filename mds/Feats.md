@@ -58,7 +58,7 @@ You gain proficiency with four weapons of your choice. Each one must be a simple
 	
 | Description |
 | --- |
-| Requirements:Dex 16 or higherYou may make a number of additional attacks of opportunity equal to your Dexterity modifier.   
+| Requirements: Dex 16 or higher, You may make a number of additional attacks of opportunity equal to your Dexterity modifier.   
 When an adjacent ally is attacked, you may use an attack of opportunity to attempt the Help action to add +2 to your ally's AC. The Combat Reflexes feat does not allow a rogue to use her opportunist ability more than once per round.    A fighter may select Combat Reflexes as one of his fighter bonus feats.A monk may select Combat Reflexes as a bonus feat at 2nd level. |  
 	
 </p>
