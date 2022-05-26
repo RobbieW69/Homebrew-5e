@@ -81,4 +81,5 @@ Semi-Hit Points(Optional, not sure if I want to implement this yet, ex: You spra
 
 * Allowed Races: All official content. (including UA unless I deem it too broken, just ask)
 
-* If you want to add a very specific homebrew thing or unofficial content added, ask me before hand and we can have a one on one about it.
+* If you want to add a very specific homebrew thing or unofficial content added, ask me before hand and we can have a one on one about it.    
+* (Scaling Feats with levels and attunement slots, i.e. 4th level = 1ft + 1asi +1att slot, 8th level = 2ft + 1asi+1att slot, 12th level = 2ft + 1asi+1att slot, 16th level = 3ft + 2asi +2att slot, 20th level = 4ft + 3asi +3att slot.) Only for first class
