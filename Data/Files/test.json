@@ -1,0 +1,272 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "BabyMama",
+				"abbreviation": "WBM",
+				"full": "BabyMama",
+				"authors": [
+					"RobbieW"
+				],
+				"version": "1.0",
+				"url": "https://drive.google.com/file/d/1cix_nBdsXvG68SB6DQWvOqEpHwmM2Oao/view?usp=sharing",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1638965531,
+		"dateLastModified": 1638965531,
+		"_dateLastModifiedHash": "21998cc09e"
+	},
+	"subclass": [
+		{
+			"name": "BabyMama",
+			"shortName": "BabyMama",
+			"source": "BabyMama",
+			"className": "Fighter",
+			"classSource": "PHB",
+			"page": 1,
+			"subclassFeatures": [
+				"Stance|Fighter||BabyMama|BabyMama|1",
+				"Combo Points|Fighter||BabyMama|BabyMama|1",
+				"Maneuvers||BabyMama|BabyMama|1",
+				"Fighting Style|Fighter||BabyMama|BabyMama|2",
+				"Blade's Path|Fighter||BabyMama|BabyMama|3",
+				"Path of Adamantine|Fighter||BabyMama|BabyMama|18",
+				"Path of Mithral|Fighter||BabyMama|BabyMama|18",
+				"Path of Iron|Fighter||BabyMama|BabyMama|18",
+				"Extra Attack|Fighter||BabyMama|BabyMama|5",
+				"Adept Maneuvers|Fighter||BabyMama|BabyMama|6",
+				"Advanced Stances|Fighter||BabyMama|BabyMama|7",
+				"Discipline and Flow|Fighter||BabyMama|BabyMama|10",
+				"Footwork Stances|Fighter||BabyMama|BabyMama|11",
+				"Master Maneuvers|Fighter||BabyMama|BabyMama|13",
+				"Rapid Strike|Fighter||BabyMama|BabyMama|15",
+				"Hybrid Stance|Fighter||BabyMama|BabyMama|18",
+				"Unlimited Combo|Fighter||BabyMama|BabyMama|20"
+			]
+		}
+	],
+	"subclassFeature": [
+		{
+			"name": "Stance",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 1,
+			"entries": [
+				"Starting at 1st level, when you begin your turn, you may choose to shift to a stance you know. You may not change stances if your speed is 0, but you retain the effects of the previous stance. You begin by knowing these three stances, and learn more as you gain levels in the BabyMama Class. Panther Stance: You gain a +1 bonus to attack and damage rolls. Crab Stance: You gain a +1 bonus to your Armor Class and Saving throws. Serpent Stance: When you make a melee weapon attack, you can increase your reach for that attack by 5 feet."
+			]
+		},
+		{
+			"name": "Combo Points",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 1,
+			"entries": [
+				"Starting at 1st level, you learn to fluidly connect your attacks. When you use an opener, you begin concentrating on your combo. Each time you hit with a flourish while you are concentrating on your combo, you gain one combo point. You may have multiple combo points at one time, up to a maximum equal to your proficiency bonus. If you would gain a combo point while you are at the maximum number of combo points, nothing happens. If you are hit with a melee attack, you must make a concentration check. If you loose concentration, you loose all combo points. You also loose all combo points when combat ends."
+			]
+		},
+		{
+			"name": "Maneuvers",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 1,
+			"entries": [
+				"Starting at 1st level, every time you make an attack, you may add the effects of a maneuver to the attack. You may not add more than one maneuver to a single attack. Each maneuver is categorized as an Opener, Flourish, or Finisher. An opener may be used when you have no combo points. If you hit, you gain one combo point unless otherwise stated.A flourish may be used when you are concentrating on your combo. If you hit, you gain one combo point.A finisher may be used when you are concentrating on your combo and have enough combo points to spend on the cost. This number is listed after “finisher” in the description of the technique. You may use up to one finisher per turn. You end your concentration on your combo once the finisher is complete.You learn the following maneuvers: Battojutsu (Opener): If you hit with this attack, you gain 2 combo points instead of 1.Parry (Opener): Until the end of your next turn, when a creature you can see or hear misses an attack against you, you can use your reaction to make one melee attack against that creature.Mutilate (Flourish): If you hit with this attack, you gain a +1 bonus to the damage roll.Precision Strike (Finisher 1): When you make this attack, you gain a bonus to the attack roll equal to the number of combo points you have.Rupture: (Finisher 1): If you hit with this attack, you gain a bonus to the damage roll equal to 3 plus the number of combo points you have."
+			]
+		},
+		{
+			"name": "Fighting Style",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 2,
+			"entries": [
+				"Starting at 2nd level, you may choose one of the following Fighting Styles. You can't take a Fighting Style option more than once, even if you later get to choose again.* Dueling: When you are wielding a melee weapon in one hand and no other weapons, you gain +2 bonus to damage rolls with that weapon.* Great Weapon Fighting: When you roll a 1 or 2 on a damage dice for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.* Two-Weapon Fighting: When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack."
+			]
+		},
+		{
+			"name": "Blade's Path",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 3,
+			"entries": [
+				"At 3rd level, you choose a path to modify your movement and blade techniques. These paths are schools of training that emphasize certain aspects of BabyMama techniques. Choose from the Path of Adamantine, Path of Mithral, or Path of Iron, all detailed at the end of the class description. The path you choose grants you features at 3rd level, and again at 9th, 14th, and 17th level."
+			]
+		},
+		{
+			"name": "Extra Attack",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 5,
+			"entries": [
+				"Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
+			]
+		},
+		{
+			"name": "Adept Maneuvers",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 6,
+			"entries": [
+				"At 6th level, you master the following maneuvers: *Riposte (Opener): When you make this attack, you gain advantage on saving throws until the start of your next turn. *Hamstring (Flourish): If you hit with this attack, the target’s speed is reduced by 10 feet.*Cleave (Flourish): When you make this attack you deal damage to an enemy adjacent to the target equal to the ability score modifier you add to damage rolls.*Kick (Flourish): If you hit with this attack and the target of this attack was concentrating on a spell, the target rolls the saving throw to maintain concentration with a minimum DC of your maneuver saving throw instead of 10. *Chakra Puncture (Finisher 2): If you hit with this attack, target must succeed on a Constitution saving throw or be stunned until the end of your next turn. If you have more combo points than the cost of this finisher, you may add the remainder to the DC of the finisher."
+			]
+		},
+		{
+			"name": "Advanced Stances",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 7,
+			"entries": [
+				"At 7th level, you master these more advanced stances: *Wolf Stance: You and your allies have advantage on melee attack rolls against any creature within 5 feet of you that is hostile to you. *Hippo Stance: You gain a +1 bonus to AC and a +1 bonus to damage rolls.*Crane Stance:  You gain a +1 bonus to saving throws and a +1 bonus to attack rolls."
+			]
+		},
+		{
+			"name": "Discipline and Flow",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 10,
+			"entries": [
+				"At 10th level, you have become disciplined enough to adapt to the ebb and flow of battle. You do not loose combo points until 1 in-game minute has passed after you gained your last combo point."
+			]
+		},
+		{
+			"name": "Footwork Stances",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 11,
+			"entries": [
+				"At 11th level, you learn these stances that enable you to move and respond faster: *Hummingbird Stance: While in this stance, you may make an additional attack as part of your attack action. (3 total)*Stallion Stance: While in this stance, your movement does not provoke opportunity attacks. Additionally, you may use a bonus action to double your speed.*Elephant Stance: While in this stance, you cannot be moved against your will."
+			]
+		},
+		{
+			"name": "Master Maneuvers",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 13,
+			"entries": [
+				"At 13th level, you learn the most advanced basic maneuvers for your combos: *Shunpo (Opener): teleport 10 feet in any direction before or after you make this attack.*Pommel Strike (Flourish): the target has disadvantage on the next weapon attack roll it makes before the end of its next turn.*Deliberate Strike (Finisher 5): This attack has a +10 bonus to the attack and damage rolls. If you have more combo points than the cost of this finisher, you may add the remainder to both the attack and damage rolls.*Eviscerate (Finisher 3): If this attack hits, it becomes a critical hit. If you have more combo points than the cost of this finisher, you may add the remainder to damage of this attack."
+			]
+		},
+		{
+			"name": "Rapid Strike",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 15,
+			"entries": [
+				"Starting at 15th level, you learn to trade accuracy for swift strikes. If you take the Attack action on your turn and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn."
+			]
+		},
+		{
+			"name": "Hybrid Stance",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 18,
+			"entries": [
+				"Starting at 18th level, you have learned to combine your stances. You may be in two different stances at the same time. At the beginning of your turn, you may switch one or both stances."
+			]
+		},
+		{
+			"name": "Unlimited Combo",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 20,
+			"entries": [
+				"Beginning at 20th level, you cannot lose concentration on your combo."
+			]
+		},
+		{
+			"name": "Path of Adamantine",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 3,
+			"entries": [
+				";Heavy FootedAt 3rd level, you gain an additional +1 bonus AC while you are in crab stance, hippo stance, or elephant stance. Additionally, when you flourish, you may choose to not gain combo points from that attack and instead add an additional +2 to the damage roll.;Steel Scale DefenseAt 9th level, you may use your action to shore up your defense. Until the start of your next turn, you gain a +4 bonus to AC and saving throws. You also gain 2 combo points. ;End StrikeAt 14th level, you have learned to plant yourself and strike with vigor. While in Crab stance, Hippo stance, or Elephant stance, you may use the Pommel Strike flourish as if it were a finisher with a 3 combo point cost. If Pommel Strike is used as a finisher in this way, the target also has a penalty to its attack equal to the number of combo points you had when you used the finisher.;Turtle TechniqueAt 17th level, you learn the very essence of the Adamantine Path in the form of a finisher. You must be in crab stance, hippo stance, or elephant stance in order to use this finisher. Unlike regular maneuvers, you must take an action to use this finisher. Once you use this finisher, you may not use it again until you finish a short or long rest. *Turtle Technique (Finisher 3): you shift into a defensive stance, waiting for the right opportunity to strike. You use your Steel Scale Defense feature, but do not gain combo points from it. Any time until the feature ends, you may use your reaction to take the Attack action against a creature that misses an attack on you. When you do so, your Steel Scale Defense ends."
+			]
+		},
+		{
+			"name": "Path of Mithral",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 3,
+			"entries": [
+				";Swift FootedAt 3rd level, while in Serpent, Crane stance, or Hummingbird stance you have an additional +1 bonus to attack rolls and you may use Battojutsu as a flourish as well as an opener.;Swift StrikesAt 9th level, you may use an action to make a whirlwind attack. Make a melee weapon attack on every enemy within 5 feet of you. Do not add your ability score modifier to the damage rolls of these attacks. This action cannot use flourishes. You only gain 2 combo points from this feature, regardless of how many attacks you made.;Flash StepAt 14th level, while in Serpent stance, Crane Stance, or Hummingbird stance, you may use Shunpo as a flourish.;Hail of Blades TechniqueAt 17th level, you learn the very essence of the Mithral Path in the form of a finisher. You must be in Serpent stance, Crane Stance, or Hummingbird stance in order to use this finisher. Unlike regular maneuvers, you must take an action to use this finisher. Once you use this finisher, you may not use it again until you finish a short or long rest. *Hail of Blades Technique (Finisher 5): You gain a +1 bonus to attack rolls until the end of your turn, and can continue making attacks with this action as long as you hit with the previous one. These attacks cannot use flourishes."
+			]
+		},
+		{
+			"name": "Path of Iron",
+			"source": "BabyMama",
+			"page": 1,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "BabyMama",
+			"subclassSource": "BabyMama",
+			"level": 3,
+			"entries": [
+				";Claw FootedAt 3rd level, when you are in Panther stance, Wolf stance, or Stallion stance, you gain an additional +1 bonus to damage rolls. When you use the Mutilate flourish in one of those stances, you add an additional +1 to the attack and damage roll. ;Heavy StrikeAt 9th level, you may use an action to make a melee weapon attack against one target within your range. You may use maneuvers as normal with this weapon attack. Make this attack using the weapon’s normal modifiers for attack and damage dice but its base damage dice is replaced with 4d8. You gain 2 combo points instead of 1 for this attack. You can use this feature a number of times equal to your proficiency bonus and regain all uses after a short or long rest.;Critical FinishersAt 14th level, when you use a finisher in Panther stance, Wolf stance or Stallion stance, treat the finisher as if you had 2 additional combo points. This may exceed the normal combo point maximum. ;Crescent Claw TechniqueAt 17th level, you learn the very essence of the Iron Path in the form of a finisher. You must be in Panther Stance, Wolf Stance, or Stallion Stance in order to use this finisher. Unlike regular maneuvers, you must take an action to use this finisher. Once you use this finisher, you may not use it again until you finish a short or long rest.*Crescent Claw Technique: Finisher 5, make one attack on a creature within range. If your attack hits, they suffer a distinct crescent-shaped wound. Until the creature restores a number of hit points equal to the damage you dealt it, all hits scored against the creature are automatically critical hits."
+			]
+		}
+	]
+}
