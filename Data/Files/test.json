@@ -3,7 +3,7 @@
 		"sources": [
 			{
 				"json": "BabyMama",
-				"abbreviation": "WBM",
+				"abbreviation": "LMAO",
 				"full": "BabyMama",
 				"authors": [
 					"RobbieW"
@@ -20,7 +20,7 @@
 	"subclass": [
 		{
 			"name": "BabyMama",
-			"shortName": "BabyMama",
+			"shortName": "SHAWTY",
 			"source": "BabyMama",
 			"className": "Fighter",
 			"classSource": "PHB",
